@@ -1,0 +1,452 @@
+[
+    {
+      "from": "USD",
+      "to": "INR",
+      "rate": 85.59
+    },
+    {
+      "from": "USD",
+      "to": "EUR",
+      "rate": 5.0119
+    },
+    {
+      "from": "USD",
+      "to": "GBP",
+      "rate": 55.0131
+    },
+    {
+      "from": "USD",
+      "to": "AED",
+      "rate": 44.6499
+    },
+    {
+      "from": "USD",
+      "to": "AUD",
+      "rate": 147.2969
+    },
+    {
+      "from": "USD",
+      "to": "CAD",
+      "rate": 135.3431
+    },
+    {
+      "from": "USD",
+      "to": "JPY",
+      "rate": 178.437
+    },
+    {
+      "from": "USD",
+      "to": "CNY",
+      "rate": 17.3969
+    },
+    {
+      "from": "USD",
+      "to": "NZD",
+      "rate": 84.3901
+    },
+    {
+      "from": "INR",
+      "to": "USD",
+      "rate": 5.9691
+    },
+    {
+      "from": "INR",
+      "to": "EUR",
+      "rate": 43.7354
+    },
+    {
+      "from": "INR",
+      "to": "GBP",
+      "rate": 101.076
+    },
+    {
+      "from": "INR",
+      "to": "AED",
+      "rate": 5.3169
+    },
+    {
+      "from": "INR",
+      "to": "AUD",
+      "rate": 39.7755
+    },
+    {
+      "from": "INR",
+      "to": "CAD",
+      "rate": 129.9804
+    },
+    {
+      "from": "INR",
+      "to": "JPY",
+      "rate": 108.9928
+    },
+    {
+      "from": "INR",
+      "to": "CNY",
+      "rate": 44.0959
+    },
+    {
+      "from": "INR",
+      "to": "NZD",
+      "rate": 117.8572
+    },
+    {
+      "from": "EUR",
+      "to": "USD",
+      "rate": 161.888
+    },
+    {
+      "from": "EUR",
+      "to": "INR",
+      "rate": 1.3097
+    },
+    {
+      "from": "EUR",
+      "to": "GBP",
+      "rate": 161.1658
+    },
+    {
+      "from": "EUR",
+      "to": "AED",
+      "rate": 139.6309
+    },
+    {
+      "from": "EUR",
+      "to": "AUD",
+      "rate": 68.0567
+    },
+    {
+      "from": "EUR",
+      "to": "CAD",
+      "rate": 31.1043
+    },
+    {
+      "from": "EUR",
+      "to": "JPY",
+      "rate": 191.443
+    },
+    {
+      "from": "EUR",
+      "to": "CNY",
+      "rate": 67.3255
+    },
+    {
+      "from": "EUR",
+      "to": "NZD",
+      "rate": 18.5582
+    },
+    {
+      "from": "GBP",
+      "to": "USD",
+      "rate": 19.3523
+    },
+    {
+      "from": "GBP",
+      "to": "INR",
+      "rate": 169.5004
+    },
+    {
+      "from": "GBP",
+      "to": "EUR",
+      "rate": 120.7492
+    },
+    {
+      "from": "GBP",
+      "to": "AED",
+      "rate": 161.4276
+    },
+    {
+      "from": "GBP",
+      "to": "AUD",
+      "rate": 145.9491
+    },
+    {
+      "from": "GBP",
+      "to": "CAD",
+      "rate": 107.2503
+    },
+    {
+      "from": "GBP",
+      "to": "JPY",
+      "rate": 194.6234
+    },
+    {
+      "from": "GBP",
+      "to": "CNY",
+      "rate": 75.7131
+    },
+    {
+      "from": "GBP",
+      "to": "NZD",
+      "rate": 110.4126
+    },
+    {
+      "from": "AED",
+      "to": "USD",
+      "rate": 165.8826
+    },
+    {
+      "from": "AED",
+      "to": "INR",
+      "rate": 123.7078
+    },
+    {
+      "from": "AED",
+      "to": "EUR",
+      "rate": 172.3428
+    },
+    {
+      "from": "AED",
+      "to": "GBP",
+      "rate": 115.4747
+    },
+    {
+      "from": "AED",
+      "to": "AUD",
+      "rate": 140.9173
+    },
+    {
+      "from": "AED",
+      "to": "CAD",
+      "rate": 9.1744
+    },
+    {
+      "from": "AED",
+      "to": "JPY",
+      "rate": 45.5874
+    },
+    {
+      "from": "AED",
+      "to": "CNY",
+      "rate": 57.8847
+    },
+    {
+      "from": "AED",
+      "to": "NZD",
+      "rate": 15.9676
+    },
+    {
+      "from": "AUD",
+      "to": "USD",
+      "rate": 46.5658
+    },
+    {
+      "from": "AUD",
+      "to": "INR",
+      "rate": 20.2093
+    },
+    {
+      "from": "AUD",
+      "to": "EUR",
+      "rate": 55.6019
+    },
+    {
+      "from": "AUD",
+      "to": "GBP",
+      "rate": 127.1405
+    },
+    {
+      "from": "AUD",
+      "to": "AED",
+      "rate": 72.9728
+    },
+    {
+      "from": "AUD",
+      "to": "CAD",
+      "rate": 74.0425
+    },
+    {
+      "from": "AUD",
+      "to": "JPY",
+      "rate": 41.9093
+    },
+    {
+      "from": "AUD",
+      "to": "CNY",
+      "rate": 53.4029
+    },
+    {
+      "from": "AUD",
+      "to": "NZD",
+      "rate": 187.3316
+    },
+    {
+      "from": "CAD",
+      "to": "USD",
+      "rate": 129.6106
+    },
+    {
+      "from": "CAD",
+      "to": "INR",
+      "rate": 121.8301
+    },
+    {
+      "from": "CAD",
+      "to": "EUR",
+      "rate": 34.236
+    },
+    {
+      "from": "CAD",
+      "to": "GBP",
+      "rate": 145.8281
+    },
+    {
+      "from": "CAD",
+      "to": "AED",
+      "rate": 32.6889
+    },
+    {
+      "from": "CAD",
+      "to": "AUD",
+      "rate": 75.8973
+    },
+    {
+      "from": "CAD",
+      "to": "JPY",
+      "rate": 197.9048
+    },
+    {
+      "from": "CAD",
+      "to": "CNY",
+      "rate": 128.0036
+    },
+    {
+      "from": "CAD",
+      "to": "NZD",
+      "rate": 111.3944
+    },
+    {
+      "from": "JPY",
+      "to": "USD",
+      "rate": 136.926
+    },
+    {
+      "from": "JPY",
+      "to": "INR",
+      "rate": 168.572
+    },
+    {
+      "from": "JPY",
+      "to": "EUR",
+      "rate": 155.2022
+    },
+    {
+      "from": "JPY",
+      "to": "GBP",
+      "rate": 45.8173
+    },
+    {
+      "from": "JPY",
+      "to": "AED",
+      "rate": 6.4297
+    },
+    {
+      "from": "JPY",
+      "to": "AUD",
+      "rate": 63.0975
+    },
+    {
+      "from": "JPY",
+      "to": "CAD",
+      "rate": 53.5555
+    },
+    {
+      "from": "JPY",
+      "to": "CNY",
+      "rate": 42.2045
+    },
+    {
+      "from": "JPY",
+      "to": "NZD",
+      "rate": 188.5825
+    },
+    {
+      "from": "CNY",
+      "to": "USD",
+      "rate": 175.2748
+    },
+    {
+      "from": "CNY",
+      "to": "INR",
+      "rate": 62.9424
+    },
+    {
+      "from": "CNY",
+      "to": "EUR",
+      "rate": 131.0912
+    },
+    {
+      "from": "CNY",
+      "to": "GBP",
+      "rate": 79.1324
+    },
+    {
+      "from": "CNY",
+      "to": "AED",
+      "rate": 182.9104
+    },
+    {
+      "from": "CNY",
+      "to": "AUD",
+      "rate": 91.7758
+    },
+    {
+      "from": "CNY",
+      "to": "CAD",
+      "rate": 52.9834
+    },
+    {
+      "from": "CNY",
+      "to": "JPY",
+      "rate": 49.333
+    },
+    {
+      "from": "CNY",
+      "to": "NZD",
+      "rate": 112.278
+    },
+    {
+      "from": "NZD",
+      "to": "USD",
+      "rate": 52.5557
+    },
+    {
+      "from": "NZD",
+      "to": "INR",
+      "rate": 116.9214
+    },
+    {
+      "from": "NZD",
+      "to": "EUR",
+      "rate": 179.5656
+    },
+    {
+      "from": "NZD",
+      "to": "GBP",
+      "rate": 79.8861
+    },
+    {
+      "from": "NZD",
+      "to": "AED",
+      "rate": 43.872
+    },
+    {
+      "from": "NZD",
+      "to": "AUD",
+      "rate": 199.5075
+    },
+    {
+      "from": "NZD",
+      "to": "CAD",
+      "rate": 101.9102
+    },
+    {
+      "from": "NZD",
+      "to": "JPY",
+      "rate": 18.191
+    },
+    {
+      "from": "NZD",
+      "to": "CNY",
+      "rate": 9.4328
+    }
+  ]
