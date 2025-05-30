@@ -1,4 +1,4 @@
-# 💱 Currency Converter Web App
+# Currency Converter Web App
 
 A full-stack currency converter web application that fetches real-time exchange rates using a custom-built REST API and stores them in MongoDB.
 
